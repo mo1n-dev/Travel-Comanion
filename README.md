@@ -2,6 +2,7 @@
 
 ![Travel Companion](https://user-images.githubusercontent.com/85831534/158024144-b54e447b-8f3d-4080-80bd-3c7f52c25f00.png)
 
+##Live preview (https://travel-compani0n.netlify.app/)
 ## Introduction
 
 Travel Companion is Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more.
