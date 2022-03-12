@@ -1,6 +1,6 @@
 # Travel Companion
 
-![Travel Companion](https://i.ibb.co/qph2cZn/image.pngg)
+![Travel Companion](<img width="1280" alt="Screenshot 2022-03-12 at 21 20 52" src="https://user-images.githubusercontent.com/85831534/158023974-bae08ce0-42a4-48b2-a734-f3908502c57f.png">)
 
 ## Introduction
 Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more.
